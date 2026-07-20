@@ -86,6 +86,8 @@ Use **Generate dashboard** in the sidebar to produce KPI cards, recommended char
 
 ## Screenshots and Demo
 
-Screenshots generated from the built app is in the docs directory.
+(docs\dashboard 1.png)
 
+(docs\dashboard 2.png)
 
+(docs\Demo.mp4)
