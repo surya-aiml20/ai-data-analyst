@@ -84,10 +84,15 @@ Upload multiple CSV files in one session. The backend creates a combined analysi
 
 Use **Generate dashboard** in the sidebar to produce KPI cards, recommended charts, and dashboard insights. Use **Export report** to download a Markdown report containing dataset summaries, metrics, insights, recent conversation context, and generated chart references.
 
-## Screenshots and Demo
+## Architecture
+![Architecture](docs/Architecture.png)
 
-(docs/dashboard 1.png)
+## Dashboard 1
+![Dashboard 1](docs/dashboard%201.png)
 
-(docs/dashboard 2.png)
+## Dashboard 2
+![Dashboard 2](docs/dashboard%202.png)
 
-(docs/Demo.mp4)
+## Demo Video
+
+[▶ Watch Demo](docs/Demo.mp4)
